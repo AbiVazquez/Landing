@@ -1,0 +1,75 @@
+*{
+	font-family: Open Sans;
+}
+/*COMUN*/
+.img{
+	max-width: 100%;
+}
+.yard{
+	max-width: 150%;
+}
+.top{
+	margin-top: 15%;
+}
+.top2{
+	margin-top: 8%;
+}
+.top3{
+	margin-top: 1%;
+}
+.bottom{
+	margin-bottom: 15%;
+}
+.bottom2{
+	margin-bottom: 1%;
+}
+.right{
+	margin-right: 7%;
+}
+/* ENCABEZADO */
+.lista{
+	float: right;
+	display: inline;
+	list-style: none;
+	padding: 5px;
+	font-size: 18px;
+}
+.nodeco {
+	text-decoration: none;
+	color: #808080;
+}
+/*TEXTO Y BOTONES*/
+.header{
+	background-color: #808080;
+}
+.text-bold{
+	font-weight: bold;
+	color: white;
+	font-size: 60px;
+	line-height: 1.3em;
+	margin-bottom: 10%;
+}
+.text-w{
+	color: white;
+	font-size: 17px;
+}
+/*GET*/
+.get{
+	background-color: #999999;
+	padding: 10px;
+	border-radius: 10px;
+}
+.tw{
+	color: white;
+	font-weight: bold;
+}
+/*FOOTER*/
+.gris{
+	color: #808080;
+	font-size: 17px;
+}
+.azul{
+	color: blue;
+	padding: 5px;
+	font-size: 17px;
+}
